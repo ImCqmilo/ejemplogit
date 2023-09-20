@@ -8,6 +8,7 @@ package ejemplogit;
  *
  * @author camil
  */
+// Esta clase es una entidad Estudiantes
 public class Estudiante {
     
 }
