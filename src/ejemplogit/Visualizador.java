@@ -8,6 +8,7 @@ package ejemplogit;
  *
  * @author camil
  */
+// esta clase es para visualizar comentarios
 public class Visualizador {
     
 }
