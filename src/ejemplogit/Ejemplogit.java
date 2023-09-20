@@ -12,8 +12,10 @@ package ejemplogit;
 public class Ejemplogit {
 
     /** 
+     * Esta es la entidad que representa a un curso
      * @param args the command line arguments
      */
+    
     public static void main(String[] args) {
         // TODO code application logic here
     }
