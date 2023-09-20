@@ -8,9 +8,10 @@ package ejemplogit;
  *
  * @author camil
  */
+// esta clase es un ejemplo
 public class Ejemplogit {
 
-    /**
+    /** 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
